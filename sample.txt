@@ -1,2 +1,2 @@
-Adding a new line from feature branch
-NEW FEATURE BRANCH LINE
+Add a new line to main
+Adding a new line
